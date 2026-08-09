@@ -4,7 +4,7 @@ Replication code for the manuscript:
 
 **Climate Vulnerability Does Not Equal Hunger: Measuring the Global Adaptation Buffer**
 
-Authors: Garrett Zhou; Hannah Jacobs
+Authors: Garrett Zhou; Yanhua Yang; Hannah Jacobs
 
 This repository contains the Python scripts used for Experiments 1–6 and robustness checks (ordinary least squares regression and Monte Carlo simulation).
 
